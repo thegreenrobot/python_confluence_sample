@@ -1,0 +1,8 @@
+{
+    "fqdn": "foo-n01.preprod.ord.tps.initech.com",
+    "hostname": "foo-n01",
+    "name": "foo-n01.preprod.ord.tps.initech.com",
+    "ipaddress_private": "192.168.23.1",
+    "ipaddress_public": "123.23.54.123",
+    "ipaddress_servicenet": "10.223.240.77"
+}
